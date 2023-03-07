@@ -17,5 +17,4 @@ flutter packages get
 
 <img src="screenshot/Capture0.PNG" width="240" height="480" />
 
-<img src="screenshot/Capture.PNG" width="240" height="480" />
 
